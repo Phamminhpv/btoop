@@ -1,3 +1,3 @@
-exports.Add  = require('./Add');
-exports.Divi = require('./Divi');
+exports.add  = require('./Add');
+exports.divi = require('./Divi');
 
